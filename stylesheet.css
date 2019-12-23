@@ -9,8 +9,8 @@
 
 
 body{
-  background-image: url(../image/background.jpg);
-  background-image: url(../image/haike2i.jpg);
+  background-image: url(background.jpg);
+  background-image: url(haike2i.jpg);
   background-size:cover;
 }
 a{
@@ -29,7 +29,7 @@ a{
   }
 
   body{
-    background-image: url(../image/haikei3.jpg);
+    background-image: url(haikei3.jpg);
   }
 
 }
