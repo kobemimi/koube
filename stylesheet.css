@@ -1,0 +1,35 @@
+/* header */
+.headerList li{
+  float: left;
+  list-style:none;
+  padding:20px;
+  font-family: 'Anton', sans-serif;
+  font-size:30px
+}
+
+
+body{
+  background-image: url(../image/background.jpg);
+  background-image: url(../image/haike2i.jpg);
+  background-size:cover;
+}
+a{
+  text-decoration: none;
+}
+/* レスポンシブルデザイン */
+@media (max-width:600px) {
+  .headerList{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+
+  }
+  .headerList{
+      margin:0 auto;
+  }
+
+  body{
+    background-image: url(../image/haikei3.jpg);
+  }
+
+}
