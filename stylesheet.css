@@ -9,7 +9,7 @@
 
 
 body{
-  background-image: url(../background.jpg);
+  background-image: url(http://url.to/image.png);
   background-image: url(../haike2i.jpg);
   background-size:cover;
 }
