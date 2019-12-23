@@ -10,7 +10,7 @@
 
 body{
   background-image: url(http://url.to/haike2i.jpg);
-  background-image: url(../haike2i.jpg);
+  background-image: url(https://github.com/kobemimi/koube/blob/master/haikei3.jpg);
   background-size:cover;
 }
 a{
@@ -29,7 +29,7 @@ a{
   }
 
   body{
-    background-image: url(../haikei3.jpg);
+    background-image: url(https://github.com/kobemimi/koube/blob/master/haikei3.jpg);
   }
 
 }
